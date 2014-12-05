@@ -1,0 +1,29 @@
+{
+  "name": "m163u",
+  "version": "0.0.1",
+  "description": "generate playlist file from music.163.com",
+  "main": "m163u.js",
+  "bin": {
+    "m163u": "bin/m163u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stormluke/m163u"
+  },
+  "keywords": [
+    "music",
+    "playlist",
+    "163",
+    "terminal"
+  ],
+  "author": "stormluke <stormluke1130@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stormluke/m163u/issues"
+  },
+  "homepage": "https://github.com/stormluke/m163u",
+  "dependencies": {
+    "commander": "^2.5.0",
+    "request": "^2.49.0"
+  }
+}

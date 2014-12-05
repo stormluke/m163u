@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var m163u = require('../m163u.js');
+
+m163u.startCLI();
